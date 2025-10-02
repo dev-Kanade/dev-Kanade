@@ -5,3 +5,7 @@
 今はファイルコンバーターや、画像の品質を上げるソフトウェアを作っています。
 
 今はTS勉強しようか**迷っています**
+
+# 自分が書く言語
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
