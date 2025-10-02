@@ -15,3 +15,4 @@
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+![dev-Kanade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kanade&theme=radical&show_icons=true&hide_border=false&layout=compact)
