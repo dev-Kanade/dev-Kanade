@@ -8,4 +8,5 @@
 
 # 自分が書く言語
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+
