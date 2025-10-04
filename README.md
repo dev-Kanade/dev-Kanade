@@ -14,7 +14,13 @@
 ![](https://img.shields.io/badge/-GDScript-478CD3?logo=godotengine&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+# 勉強中の言語
+
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 
 ![dev-Kanade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kanade&theme=radical&show_icons=true&hide_border=false&layout=compact)
