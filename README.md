@@ -6,14 +6,17 @@
 
 今はTS勉強しようか**迷っています**
 
-# 自分が書く(多少なりとも書ける)言語
+# 自分が書く言語
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-GDScript-478CD3?logo=godotengine&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+
+# 自分が多少なりとも書ける言語
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-GDScript-478CD3?logo=godotengine&logoColor=white)
 
 # 勉強中の言語
 
