@@ -6,7 +6,7 @@
 
 今はTS勉強しようか**迷っています**
 
-# 自分が書く言語
+# 自分が書く(多少なりとも書ける)言語
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
