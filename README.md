@@ -6,7 +6,7 @@
 
 今はTS勉強しようか**迷っています**
 
-[](https://tenor.com/fRojPLkzJJI.gif)
+![](https://tenor.com/fRojPLkzJJI.gif)
 # 自分が書く言語
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
