@@ -6,8 +6,7 @@
 
 今はTS勉強しようか**迷っています**
 
-<div class="tenor-gif-embed" data-postid="4781682369701110304" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hu-tao-gif-4781682369701110304">Hu Tao GIF</a>from <a href="https://tenor.com/search/hu+tao-gifs">Hu Tao GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+[](https://tenor.com/fRojPLkzJJI.gif)
 # 自分が書く言語
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
