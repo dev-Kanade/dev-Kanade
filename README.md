@@ -27,6 +27,4 @@
 ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 
-![dev-Kanade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kanade&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-![dev-Kanade's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
