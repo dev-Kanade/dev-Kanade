@@ -27,5 +27,16 @@
 ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 
-<img src="https://github-my-stats-xi.vercel.app/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark&count_private=true" alt="Top Languages" /></p>![Anurag's GitHub stats](https://github-my-stats-xi.vercel.app/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true)![](https://komarev.com/ghpvc/?username=dev-Kanade)
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-my-stats-xi.vercel.app/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark&count_private=true" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-my-stats-xi.vercel.app/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=dev-Kanade" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
