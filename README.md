@@ -34,12 +34,9 @@
     </td>
     <td align="center">
       <img src="https://github-my-stats-xi.vercel.app/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=dev-Kanade" alt="Profile Views" />
-    </td>
   </tr>
 </table>
+<img src="https://komarev.com/ghpvc/?username=dev-Kanade" alt="Profile Views" />
 <img src="https://github-my-stats-xi.vercel.app/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark&count_private=true" alt="Top Languages" />
 <img src="https://github-my-stats-xi.vercel.app/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true" alt="GitHub Stats" />
 <img src="https://komarev.com/ghpvc/?username=dev-Kanade" alt="Profile Views" />
