@@ -4,30 +4,26 @@
 
 今はファイルコンバーターや、画像の品質を上げるソフトウェアを作っています。
 
-今はTS勉強しようか**迷っています**
 ![](https://komarev.com/ghpvc/?username=dev-Kanade)
 
-![](https://tenor.com/fRojPLkzJJI.gif)
-# 自分が書く言語
 
-![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+## 自分が書ける言語
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## かけてた言語
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-# 自分が多少なりとも書ける言語
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![](https://img.shields.io/badge/-GDScript-478CD3?logo=godotengine&logoColor=white)
+## 勉強中・勉強予定の言語
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 勉強中の言語
-
-![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&locale=ja)
-![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
-
-
+## Status
 <table>
   <tr>
     <td align="center">
