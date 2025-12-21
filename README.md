@@ -34,4 +34,4 @@
   </tr>
 </table>
 
-![](https://tenor.com/ho85D7uXfHS.gif)
+![](./frina.gif)
