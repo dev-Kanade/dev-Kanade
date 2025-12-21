@@ -23,7 +23,7 @@
 
 ![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&locale=ja)
 ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 
