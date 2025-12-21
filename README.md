@@ -28,6 +28,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Kanade&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Kanade&hide=contribs,prs&locale=ja)
 ![](https://komarev.com/ghpvc/?username=dev-Kanade)
 
