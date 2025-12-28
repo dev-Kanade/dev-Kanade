@@ -1,8 +1,15 @@
 専門はJavaScriptです。（サーバーサイド）
 
-普段は基本的にFortniteというビデオゲームのリークや、JSを使ったソフトウェアの作成、FNTrackerを作ったりしています。
-
-今はファイルコンバーターや、画像の品質を上げるソフトウェアを作っています。
+今、Rustを勉強中です！
+これくらいしか書けない
+```Rust
+fn main (){
+    const STRING:&str = "Hello World";
+    println!("{}",STRING);
+}
+```
+普段はJavaScript/Node.jsを用いて、FortniteのトラッカーやDiscordBot,その他いろんなソフトウェアを作っています。
+たまにGodotを用いてゲーム制作にも勤しんでいます。
 
 ![](https://komarev.com/ghpvc/?username=dev-Kanade)
 
