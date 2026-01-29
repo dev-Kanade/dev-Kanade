@@ -43,3 +43,6 @@ fn main (){
 </table>
 
 ![](./frina.gif)
+
+## ServiceStatus7
+<iframe src="https://itstatus.merofn.com/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no" style="color-scheme: normal"></iframe>
