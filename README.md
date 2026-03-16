@@ -34,9 +34,6 @@ fn main (){
 ## Status
 <table>
   <tr>
-    <td align="center">
-      <img src="./frina.gif" alt="Top Languages" />
-    </td>
       <td align="center">
       <img src="https://github-my-stats.onrender.com/api/top-langs?username=dev-Kanade&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark&count_private=true" alt="Top Languages" />
     </td>
