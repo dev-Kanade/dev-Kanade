@@ -41,6 +41,6 @@ fn main (){
       <img src="https://github-my-stats.onrender.com/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true" alt="GitHub Stats" />
   </tr>
 </table>
-![](https://github-my-stats.onrender.com/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true)
+![](https://github-my-stats.onrender.com/api?username=dev-Kanade&hide=contribs,prs&locale=ja&count_private=true)</br>
 ![](./frina.gif)
 
