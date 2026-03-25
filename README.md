@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://github.com/dev-Kanade">
     <img height="180" align="center" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=dev-Kanade&theme=chartreuse-dark&hide_border=true&border_radius=10&locale=ja&theme=shadow_blue" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=dev-Kanade&theme=prussian&hide_border=true&border_radius=10&locale=ja" 
          alt="GitHub Streak Stats" />
   </a>
   <a href="https://github.com/dev-Kanade">
