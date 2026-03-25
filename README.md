@@ -30,7 +30,7 @@
   </a>
   <a href="https://github.com/dev-Kanade">
     <img height="180" align="center" 
-         src="[https://github-my-stats.onrender.com/api/top-langs/?username=dev-kanade&langs_count=8&locale=ja&theme=shadow_blue&hide=Batchfile,Shell&layout=compact](https://github-my-stats.onrender.com/api/top-langs/?username=dev-kanade&langs_count=8&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact)" 
+         src="https://github-my-stats.onrender.com/api/top-langs/?username=dev-kanade&langs_count=8&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact" 
          alt="最もよく使っている言語" />
   </a>
 </div>
