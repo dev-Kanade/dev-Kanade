@@ -34,5 +34,6 @@
          alt="最もよく使っている言語" />
   </a>
 </div>
+![](https://github-my-stats.onrender.com/api/top-langs/?username=dev-kanade&langs_count=8&locale=ja&theme=ambient_gradient&hide=Batchfile,Shell)
 
 
