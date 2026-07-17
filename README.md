@@ -10,7 +10,7 @@
 
 <br>
 
-### 🛠️ 主な技術スタック
+### language used
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -18,6 +18,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </div>
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Sass](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![Node.js](https://shields.io)
+![Rust](https://shields.io)
+![SQLite](https://shields.io)
 
 <br>
 
