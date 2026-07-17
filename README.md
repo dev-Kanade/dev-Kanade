@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi there! I'm 𝓚𝓪𝓷𝓪𝓭𝓮</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=7CFC00&center=true&vCenter=true&width=500&lines=JavaScript+%2F+TypeScript+専門;Rustを勉強してる;PostgreSQL勉強中;ドラマー;ピアノも弾けるよ" alt="Typing SVG" />
-</p>
-
 <br>
 
 ## language used
