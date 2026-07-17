@@ -74,3 +74,5 @@
 </br>
 
 よく使っている言語が読み込まれないなら [こちら](https://github-my-stats.onrender.com/api/top-langs/?username=dev-kanade&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact) で確認できます。
+
+&copy;copyright 2026 Kanade
