@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </div>
+
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![Sass](https://shields.io)
