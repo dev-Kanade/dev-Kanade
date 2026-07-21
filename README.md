@@ -83,4 +83,3 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-&copy;copyright 2026 Kanade
