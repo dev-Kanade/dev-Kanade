@@ -41,6 +41,12 @@
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
 
+## Used Software
+![MediBang Paint](https://img.shields.io/badge/MediBang_Paint-1896D3?style=for-the-badge&logo=medibangpaint&logoColor=white)
+![ibisPaint](https://img.shields.io/badge/ibisPaint-128AF8?style=for-the-badge&logo=ibispaint&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-EA4300?style=for-the-badge&logo=microsoft365&logoColor=white)
+
 ## Used SNS
 ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
