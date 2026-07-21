@@ -72,12 +72,12 @@
 <div align="center">
   <a href="https://github.com/dev-Kanade">
     <img height="180" align="center" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=dev-Kanade&theme=prussian&hide_border=true&border_radius=10&locale=ja" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=kanade0424&theme=prussian&hide_border=true&border_radius=10&locale=ja" 
          alt="GitHub Streak Stats" />
   </a>
   <a href="https://github.com/dev-Kanade">
     <img height="180" align="center" 
-         src="https://github-my-stats.onrender.com/api/top-langs/?username=dev-kanade&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact" 
+         src="https://github-my-stats.onrender.com/api/top-langs/?username=kanade_0424&langs_count=7&locale=ja&theme=prussian&hide=Batchfile,Shell&layout=compact" 
          alt="最もよく使っている言語" />
   </a>
 </div>
