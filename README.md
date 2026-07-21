@@ -27,7 +27,7 @@
 ![OAuth2.0](https://img.shields.io/badge/OAuth%202.0-3B5998?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Used Framework
 
